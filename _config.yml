@@ -1,3 +1,4 @@
+---
 title: "POPEYE"
 date: 2019-01-30
 author: Dasombang
@@ -9,6 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Good job.
   What is the error? Tell me, please.
   What the fuck hell is going on.
+  I got it.
 
 # social links
 twitter_username: your-twitter-handle
@@ -17,3 +19,4 @@ github_username:  your-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+---
